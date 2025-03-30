@@ -74,6 +74,6 @@ This project is open-source and can be modified as needed.
 
 
 ## Contributors
-👨‍💻 **Tejas R M** - Backend Developer
-🎨 **K Abhinash Prabhu** - UI Development (User Side)
-🔧 **Gokul Raj NS** - UI Development (Admin Side)
+👨‍💻 **Tejas R M** - Backend Developer 
+ 🎨 **K Abhinash Prabhu** - UI Development (User Side)
+ 🔧 **Gokul Raj NS** - UI Development (Admin Side)
