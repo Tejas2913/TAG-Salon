@@ -65,8 +65,8 @@ Tag Salon is a user-friendly salon booking application that allows customers to 
 ## Contact for Complete Project
 For access to the full project, including both the user and admin sides, please contact:
 
--📞 **Phone:** +91 9066660386
--📧 **Email:** tejasrm2004@gmail.com
+📞 **Phone:** +91 9066660386
+📧 **Email:** tejasrm2004@gmail.com
 
 
 ## License
