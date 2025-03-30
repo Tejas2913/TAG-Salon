@@ -36,7 +36,6 @@ Tag Salon is a user-friendly salon booking application that allows customers to 
    - Add your `google-services.json` file to the appropriate directory.
 4. **Run the app** on an emulator or physical device.
 
----
 
 ## Future Enhancements
 -💳 **Payment Integration:** Adding online payment options for seamless transactions.
