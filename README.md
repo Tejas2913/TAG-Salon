@@ -5,8 +5,6 @@ Tag Salon is a user-friendly salon booking application that allows customers to 
 
 🚫 **Note:** No payment integration is included in this version.
 
----
-
 ## Features
 📜 **Browse Services:** Users can explore salon services available for booking.
 
@@ -22,7 +20,6 @@ Tag Salon is a user-friendly salon booking application that allows customers to 
 
 🔄 **Regular Services:** User authentication, profile management, and other essential features.
 
----
 
 ## Tech Stack
 - **Frontend:** Kotlin
@@ -64,7 +61,6 @@ Tag Salon is a user-friendly salon booking application that allows customers to 
 
 -🔍 **Advanced Search Filters:** Users can filter salons and services based on price, rating, and availability.
 
----
 
 ## Contact for Complete Project
 For access to the full project, including both the user and admin sides, please contact:
@@ -72,12 +68,10 @@ For access to the full project, including both the user and admin sides, please 
 -📞 **Phone:** +91 9066660386
 -📧 **Email:** tejasrm2004@gmail.com
 
----
 
 ## License
 This project is open-source and can be modified as needed.
 
----
 
 ## Contributors
 -👨‍💻 **Tejas R M** - Backend Developer
