@@ -1,4 +1,4 @@
-# **Tag Salon - Salon Booking App**
+#Tag Salon - Salon Booking App
 
 ### Overview
 Tag Salon is a user-friendly salon booking application that allows customers to browse services, book appointments, and receive notifications. The app also features a location-based service for finding nearby salons. This repo includes both the user-side and admin-side functionalities.
