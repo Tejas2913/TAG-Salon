@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1078688333024",
+    "firebase_url": "https://tag-salon-31863-default-rtdb.firebaseio.com",
+    "project_id": "tag-salon-31863",
+    "storage_bucket": "tag-salon-31863.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078688333024:android:31bf0c2469c4297b646485",
+        "android_client_info": {
+          "package_name": "com.tejgokabhi.salonbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078688333024-pshmv3knouael0ea35o96tr1o2c6lm08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tejgokabhi.salonbooking",
+            "certificate_hash": "3e0e4422fb7f0d837b13358867befa9dfe58203c"
+          }
+        },
+        {
+          "client_id": "1078688333024-fogqn9dvqmhtbrv3b70j7lev14tce6uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkp-aWizwNyrv3A5T8E4F8lUYNP7JzhQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078688333024-fogqn9dvqmhtbrv3b70j7lev14tce6uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078688333024:android:40f5c6d63cbb7ffd646485",
+        "android_client_info": {
+          "package_name": "com.tejgokabhi.salonbookingadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078688333024-fogqn9dvqmhtbrv3b70j7lev14tce6uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkp-aWizwNyrv3A5T8E4F8lUYNP7JzhQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078688333024-fogqn9dvqmhtbrv3b70j7lev14tce6uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

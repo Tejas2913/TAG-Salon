@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Stylish Salon</string>
+    <string name="payment_id">rzp_test_duuULjpUUFuPBn</string>
+    <string name="app_desp">Experience beauty in every detail with our Salon App: Where Style Meets Convenience!</string>
+    <string name="sub_description">Best Salon application here..</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="password_recovery_msg">To ensure secure account recovery, we have sent a password reset link to your registered email address. Please check your inbox and follow the instructions to reset your password. If you don\'t receive the email, kindly check your spam folder or contact our support team for further assistance. Thank you.</string>
+    <string name="web_client_id">942404320552-cs773rt1dtogdjs5b6p1qj67n9tropga.apps.googleusercontent.com</string>
+    <string name="welcomeText">Log in to your account using Email, social account or Create account</string>
+    <string name="bookingTitle">Booking Your Service!</string>
+    <string name="aboutUs">At Stylish Salon, we believe that beauty is not just about following trends, but about embracing your unique style and personality. Our team of skilled stylists are passionate about helping you discover and enhance your distinct aesthetic, whether your seeking a bold transformation or a subtle refinement.</string>
+</resources>
