@@ -25,7 +25,7 @@ Tag Salon is a user-friendly salon booking application that allows customers to 
 - **Frontend:** Kotlin
 - **Backend:** Firebase Realtime Database
 
----
+
 ## Installation
 1. **Clone the repository:**
    ```sh
